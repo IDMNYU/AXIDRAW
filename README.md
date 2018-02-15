@@ -8,7 +8,7 @@ first thing to do is, get the [user guide](https://wiki.evilmadscientist.com/Axi
 second thing to do is, [install the software](https://wiki.evilmadscientist.com/Axidraw_Software_Installation).
 
 you can use the AxiDraw with a few programs:
-* easiest is InkScape (installs with the software).
+* easiest is [InkScape](https://inkscape.org/en/) (installs with the software).
 * there are also [Python](https://github.com/fogleman/axi), [Node](https://www.npmjs.com/package/cncserver), and [Processing](https://github.com/evil-mad/AxiDraw-Processing/tree/master/AxiGen1) libraries.
 
 if you're using Inkscape, the most important stuff is :
